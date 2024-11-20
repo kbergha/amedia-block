@@ -3,5 +3,6 @@
 ! TimeUpdated: 2024-11-20T15:29:00+00:00
 ! Expires: 48 hours
 ||assets.acdn.no/pkg/@amedia/brick-player/*
+||assets.acdn.no/pkg/@amedia/brick-icon/*
 ||assets.acdn.no/pkg/@amedia/brick-pill/*
 ||services.api.no/api/adplogger/*
