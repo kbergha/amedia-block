@@ -5,5 +5,4 @@
 ||assets.acdn.no/pkg/@amedia/brick-player/*
 ||assets.acdn.no/pkg/@amedia/brick-icon/*
 ||assets.acdn.no/pkg/@amedia/brick-pill/*
-||assets.acdn.no/pkg/@amedia/brick-teaser/*
 ||services.api.no/api/adplogger/*
