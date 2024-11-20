@@ -1,0 +1,6 @@
+! Title: Block stupid stuff from Amedia
+! Description: Block stupid stuff for local Norwegian newspapers.
+! TimeUpdated: 2024-11-20T15:29:00+00:00
+! Expires: 48 hours
+||assets.acdn.no/pkg/@amedia/brick-player/*
+||services.api.no/api/adplogger/*
